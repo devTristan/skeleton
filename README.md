@@ -1,5 +1,7 @@
 # Your Package
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/devTristan/skeleton.svg)](https://greenkeeper.io/)
+
 I can't even begin to explain how tired I am of reproducing this setup
 
 ## Sensible defaults for es6 development
